@@ -1,5 +1,7 @@
 # Python tests: Importance of clean test environment
 
+![banner](./media/banner-git.png)
+
 Writing tests in Python is vital for maintaining code reliability and catching bugs early. Tests serve as a safety net, ensuring that code behaves as expected, promoting faster development cycles, and providing confidence during code changes and collaborations.
 
 In this repo, I want to introduce `setup` and `teardown` in the context of testing.
